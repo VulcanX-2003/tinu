@@ -6,4 +6,5 @@ tinu/
 *.h5
 *.ipynb
 *.txt
+!requirements.txt
 *.cfg
