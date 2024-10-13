@@ -7,4 +7,5 @@ tinu/
 *.ipynb
 *.txt
 !requirements.txt
+!
 *.cfg
