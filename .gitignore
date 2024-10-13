@@ -1,0 +1,8 @@
+Include/
+Lib/
+Scripts/
+share/
+tinu/
+*.h5
+*.ipynb
+*.txt
